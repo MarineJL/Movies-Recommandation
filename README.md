@@ -11,7 +11,7 @@ Check the app :movie_camera: https://project3mjl-api-heroku.herokuapp.com/recomm
 ## :books: Table of content
 
 - [Data Cleaning and Exploratory Analysis](#detective-Data_Cleaning_and_Exploratory_Analysis )
-- [Machine Learning](#computer-Machine_Learning)
+- [Machine Learning](#computer-MachineLearning)
 - [API](#rocket-API)
 - [Support](#hammer_and_wrench-support)
 - [Contributing](#memo-contributing)
@@ -35,8 +35,8 @@ We're done ! :zap::clapper: https://project3mjl-api-heroku.herokuapp.com/recomme
 
 ## :hammer_and_wrench: Support
 
-Please [open an issue](https://github.com/MarineJL/projet3/issues/new) for support.
+Please [open an issue](https://github.com/MarineJL/project3/issues/new) for support.
 
 ## :memo: Contributing
 
-Please contribute using [Github Flow](https://guides.github.com/introduction/flow/). Create a branch, add commits, and [open a pull request](https://github.com/MarineJL/projet4/compare/).
+Please contribute using [Github Flow](https://guides.github.com/introduction/flow/). Create a branch, add commits, and [open a pull request](https://github.com/MarineJL/project3/compare/).
